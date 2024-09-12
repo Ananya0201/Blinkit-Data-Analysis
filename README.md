@@ -167,6 +167,7 @@ A card visual was used to represent this.
 A card visual was used to represent this.
  
  Snap of Number of items
+ 
  ![Screenshot 2024-09-07 003516](https://github.com/user-attachments/assets/21019176-613d-4f22-9041-39e9699295b5)
 
 - Step 14 : The report was then published to Power BI Service after doing the required computations as per the business requirement.
