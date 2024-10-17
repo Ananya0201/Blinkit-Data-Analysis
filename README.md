@@ -1,6 +1,6 @@
 # Blinkit Analysis dashboard:
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/a8a47452-a1d0-466b-9c7b-03894874ac48/ReportSection?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/e038a092-4919-41d0-8db4-9ab60e449c24/ReportSection?experience=power-bi
 
 ## Process for preparing the project:
 
